@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rahul
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on anytime
 - 📫 How to reach me nrrahul4@gmail.com
 
